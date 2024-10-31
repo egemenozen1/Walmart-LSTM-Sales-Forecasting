@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5096511-4a48-4e33-825f-eac9a9dbdccc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;egemenozen1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/egemenozen1/Walmart-LSTM-Sales-Forecasting.git&quot;,
+    &quot;accountId&quot;: &quot;f3bc816f-3579-481c-ada2-0f6c3c38d5ba&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2o7dxtTiTKztrpjnvvxn8SAKXD4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/egeme/OneDrive/Masaüstü/NeWProjectS/Walmart-LSTMmodel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\egeme\OneDrive\Masaüstü\NeWProjectS\Walmart-LSTMmodel\Data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5096511-4a48-4e33-825f-eac9a9dbdccc" name="Changes" comment="" />
+      <created>1730224797779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730224797779</updated>
+      <workItem from="1730224798813" duration="725000" />
+      <workItem from="1730243659813" duration="2689000" />
+      <workItem from="1730298691229" duration="14165000" />
+      <workItem from="1730328427570" duration="903000" />
+      <workItem from="1730388788336" duration="43000" />
+      <workItem from="1730397861914" duration="1652000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1730225453606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730225453606</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new changes">
+      <option name="closed" value="true" />
+      <created>1730246075487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730246075487</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new changes2">
+      <option name="closed" value="true" />
+      <created>1730308182393</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730308182393</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new changes">
+      <option name="closed" value="true" />
+      <created>1730310402249</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730310402249</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new changes">
+      <option name="closed" value="true" />
+      <created>1730310437769</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730310437769</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new dataset">
+      <option name="closed" value="true" />
+      <created>1730314913254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730314913254</updated>
+    </task>
+    <task id="LOCAL-00007" summary="sample_newdataset">
+      <option name="closed" value="true" />
+      <created>1730316003030</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730316003030</updated>
+    </task>
+    <task id="LOCAL-00008" summary="sample_newdataset">
+      <option name="closed" value="true" />
+      <created>1730316039349</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730316039349</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New Notebook">
+      <option name="closed" value="true" />
+      <created>1730397936079</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730397936079</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New Notebook">
+      <option name="closed" value="true" />
+      <created>1730398356480</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730398356480</updated>
+    </task>
+    <task id="LOCAL-00011" summary="New Notebook">
+      <option name="closed" value="true" />
+      <created>1730398858148</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730398858148</updated>
+    </task>
+    <task id="LOCAL-00012" summary="New Notebook">
+      <option name="closed" value="true" />
+      <created>1730399089916</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730399089917</updated>
+    </task>
+    <task id="LOCAL-00013" summary="New Notebook">
+      <option name="closed" value="true" />
+      <created>1730399194899</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730399194899</updated>
+    </task>
+    <task id="LOCAL-00014" summary="New Notebook">
+      <option name="closed" value="true" />
+      <created>1730399207362</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730399207362</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="new changes2" />
+    <MESSAGE value="new changes" />
+    <MESSAGE value="new dataset" />
+    <MESSAGE value="new dataset1" />
+    <MESSAGE value="sample_newdataset" />
+    <MESSAGE value="New Notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Notebook" />
+  </component>
+</project>
