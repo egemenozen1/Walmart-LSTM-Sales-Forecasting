@@ -1,22 +1,15 @@
-# Advanced Time Series Sales Prediction
+# Advanced Time Series Sales Prediction Using Walmart Dataset
 
-This repository contains a comprehensive project aimed at predicting sales using advanced time-series modeling techniques. The project leverages LSTM-based models (including a Bidirectional LSTM) and other machine learning models like Random Forest for comparison and ensemble modeling. Key steps include data cleaning, feature engineering, model development, and extensive hyperparameter tuning to achieve robust predictions.
+This project focuses on predicting Walmart's weekly store sales using advanced time-series modeling techniques. The project leverages LSTM-based models (including a Bidirectional LSTM) as well as Random Forest for comparison and ensemble modeling. The primary goal is to capture complex patterns such as trends, seasonality, and other variations within the data to provide accurate and reliable sales forecasts, aiding business strategy and decision-making.
 
----
+## About the Walmart Dataset
+
+The Walmart dataset consists of weekly sales data for multiple stores, along with various factors that may influence sales. This includes promotional events, holidays, and economic indicators, offering a challenging real-world dataset for time-series forecasting tasks. By accurately capturing this data's complexities, this project aims to improve future sales predictions and support strategic business insights.
+
 
 ## Project Structure
 
-```bash
-.
-├── data/
-│   ├── optimized_dataset.csv          # The preprocessed dataset used for training and testing
-│   ├── scaler.pkl                     # Scaler object for data standardization
-│   ├── random_forest_model.pkl        # Saved Random Forest model for baseline comparison
-│   ├── bilstm_model.h5                # Saved model weights for the Bidirectional LSTM
-├── notebooks/
-│   ├── Notebook1-DataCleaning.ipynb   # Notebook for data cleaning
-│   ├── Notebook2-ModelDevelopment.ipynb # Notebook for model training and development
-├── README.md                          # Project documentation
+. ├── data/ │ ├── optimized_dataset.csv │ ├── scaler.pkl │ ├── random_forest_model.pkl │ ├── bilstm_model.h5 ├── notebooks/ │ ├── Notebook1-DataCleaning.ipynb │ ├── Notebook2-ModelDevelopment.ipynb ├── README.md
 
 
 ## Project Highlights
