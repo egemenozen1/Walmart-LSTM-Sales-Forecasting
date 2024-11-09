@@ -2,8 +2,21 @@
 
 This repository contains a comprehensive project aimed at predicting sales using advanced time-series modeling techniques. The project leverages LSTM-based models (including a Bidirectional LSTM) and other machine learning models like Random Forest for comparison and ensemble modeling. Key steps include data cleaning, feature engineering, model development, and extensive hyperparameter tuning to achieve robust predictions.
 
+---
+
 ## Project Structure
-. ├── data/ │ ├── optimized_dataset.csv │ ├── scaler.pkl │ ├── random_forest_model.pkl │ └── bilstm_model.h5 ├── notebooks/ │ ├── Notebook1-DataCleaning.ipynb │ └── Notebook2-ModelDevelopment.ipynb └── README.md
+
+```bash
+.
+├── data/
+│   ├── optimized_dataset.csv          # The preprocessed dataset used for training and testing
+│   ├── scaler.pkl                     # Scaler object for data standardization
+│   ├── random_forest_model.pkl        # Saved Random Forest model for baseline comparison
+│   ├── bilstm_model.h5                # Saved model weights for the Bidirectional LSTM
+├── notebooks/
+│   ├── Notebook1-DataCleaning.ipynb   # Notebook for data cleaning
+│   ├── Notebook2-ModelDevelopment.ipynb # Notebook for model training and development
+├── README.md                          # Project documentation
 
 
 ## Project Highlights
