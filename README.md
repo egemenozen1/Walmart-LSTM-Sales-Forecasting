@@ -51,7 +51,6 @@ The Walmart dataset consists of weekly sales data for multiple stores, along wit
 - Actual vs Predicted plots for different model segments.
 - Illustrations highlighting ensemble performance compared to individual models.
 
-### Sample Visualizations
 
 ## Sample Visualizations
 
