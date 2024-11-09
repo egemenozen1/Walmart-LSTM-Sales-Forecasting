@@ -53,9 +53,21 @@ The Walmart dataset consists of weekly sales data for multiple stores, along wit
 
 ### Sample Visualizations
 
-| Residuals Distribution | Actual Predicted Sales (Segment 0-1000) | Actual Predicted Sales (Segment 10000-11000) |
-| --- | --- | --- |
-| ![Residuals Distributionl LSTM](Data/residuals.png) | ![Actual Predicted Sales](Data/segment 0-1000.png) | ![Actual Predicted Sales](Data/segment 10000-11000.png) |
+## Sample Visualizations
+
+### Residuals Distribution
+![Residuals Distribution LSTM](Data/residuals.png)
+
+---
+
+### Actual Predicted Sales (Segment 0-1000)
+![Actual Predicted Sales](Data/segment%200-1000.png)
+
+---
+
+### Actual Predicted Sales (Segment 10000-11000)
+![Actual Predicted Sales](Data/segment%2010000-11000.png)
+
 
 ## Installation and Usage
 
