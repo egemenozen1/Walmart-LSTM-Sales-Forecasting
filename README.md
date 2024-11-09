@@ -9,8 +9,9 @@ The Walmart dataset consists of weekly sales data for multiple stores, along wit
 
 ## Project Structure
 
-. ├── data/ │ ├── optimized_dataset.csv │ ├── scaler.pkl │ ├── random_forest_model.pkl │ ├── bilstm_model.h5 ├── notebooks/ │ ├── Notebook1-DataCleaning.ipynb │ ├── Notebook2-ModelDevelopment.ipynb ├── README.md
+The following is the structure of the project files and directories:
 
+. ├── data/ │ ├── optimized_dataset.csv # Optimized and preprocessed dataset │ ├── scaler.pkl # Scaler used for data normalization │ ├── random_forest_model.pkl # Trained Random Forest model │ ├── bilstm_model.h5 # Trained BiLSTM model ├── notebooks/ │ ├── Notebook1-DataCleaning.ipynb # Jupyter Notebook for data cleaning │ ├── Notebook2-ModelDevelopment.ipynb # Jupyter Notebook for model development ├── README.md # Project README file
 
 ## Project Highlights
 
