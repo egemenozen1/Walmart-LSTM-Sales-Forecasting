@@ -53,9 +53,9 @@ The Walmart dataset consists of weekly sales data for multiple stores, along wit
 
 ### Sample Visualizations
 
-| Bidirectional LSTM | Random Forest | Ensemble Results |
+| Residuals Distribution | Random Forest | Ensemble Results |
 | --- | --- | --- |
-| ![Bidirectional LSTM](data/image1.png) | ![Random Forest](data/image2.png) | ![Ensemble](data/image3.png) |
+| ![Residuals Distributionl LSTM](Data/residuals.png) | ![Random Forest](data/image2.png) | ![Ensemble](data/image3.png) |
 
 ## Installation and Usage
 
